@@ -1,0 +1,15 @@
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\bin\Debug\net6.0\Bienes_Raices.exe
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\bin\Debug\net6.0\Bienes_Raices.deps.json
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\bin\Debug\net6.0\Bienes_Raices.runtimeconfig.json
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\bin\Debug\net6.0\Bienes_Raices.dll
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\bin\Debug\net6.0\Bienes_Raices.pdb
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.csproj.AssemblyReference.cache
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.AssemblyInfoInputs.cache
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.AssemblyInfo.cs
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.csproj.CoreCompileInputs.cache
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.dll
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\refint\Bienes_Raices.dll
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.pdb
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\Bienes_Raices.genruntimeconfig.cache
+C:\Users\Ek Latino\source\repos\Bienes_Raices\Bienes_Raices\obj\Debug\net6.0\ref\Bienes_Raices.dll
